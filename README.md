@@ -1,29 +1,12 @@
-# discover_your_home
+Planets and Tasks Application
+This project is a basic animated application that lists planets and tasks. The application is developed using Flutter framework, which allows for building beautiful native applications for mobile, web, and desktop from a single codebase.
 
-## Support
+Project Objectives
+Provide users with basic information about planets.
+Allow users to visualize different tasks in an animated way.
+Enhance user experience using basic animations.
+Features
+Displays the name, image, and basic information of planets.
+Animates the presentation of different tasks for each planet.
+Responsive design for various screen sizes.
 
-<p>
-<a href="https://sociabuzz.com/syarifhidayatullah2020/tribe" target='_blank'>
-<img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" width="100"></a>
-
-<a href="https://www.buymeacoffee.com/syarifhidayat"  target='_blank'>
-<img src="https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" width="100"></a>
-</p>
-
-## UI/UX
-
-<a href="https://dribbble.com/shots/18098177-Space-App"  target='_blank'><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Dribbble_logo.png" width="100"></a>
-
-## Youtube
-
-<a href="https://youtu.be/QsC6GfG0fU" target='_blank'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/200px-YouTube_Logo_2017.svg.png" width="100"></a>
-
-## Preview
-
-<p align="middle">
-<img src="assets/previews/splash page.png" alt="Splash Page" width="200">
-<img src="assets/previews/home page.png" alt="Home Page" width="200">
-<img src="assets/previews/home page_.png" alt="Home Page" width="200">
-<img src="assets/previews/detail page.png" alt="Detail Page" width="200">
-</p>
